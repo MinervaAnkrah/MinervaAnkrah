@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to My Space :earth_africa:</h1>
 <h3 align="left">Hi 👋, I am Minerva Ankrah</h3>
-<h3 align="left">I've always had a strong drive to solve puzzles :book: since I was a child :baby:. However, my strong urge to solve riddles never faded, and instead evolved into a stronger need to translate statistics and facts :chart_with_downwards_trend: to guide strategic business choices,  through the process of assessing sales figures :bar_chart:, market research, logistics, or transportation data :car:.</h3>
+<h3 align="left">I have always had a strong drive to solve puzzles :book: since I was a child :baby:. However, my strong urge to solve riddles never faded, and instead evolved into a stronger need to translate statistics and facts :chart_with_downwards_trend: to guide strategic business choices,  through the process of assessing sales figures :bar_chart:, market research, logistics, or transportation data :car:.</h3>
 
 - 🌱 I’m currently learning **Statistics for Data Analysis and Data Science**
 
