@@ -1,6 +1,10 @@
 <h1 align="center">Welcome to My Space :earth_africa:</h1>
 <h3 align="left">Hi 👋, I am Minerva Ankrah</h3>
-<h3 align="left">Since my early childhood 🧒, I have possessed an unwavering determination to solve complex puzzles. Over the years, this innate drive has transformed into a fervent passion for translating statistical data 📊 and factual information into actionable insights that inform strategic business decisions, through a process which involves a thorough analysis of diverse data sets 💻, such as sales figures 💰, market research, logistics 🚢, and transportation data 🚚, in order to guide effective business strategies.</h3>
+<p align="left">Since my early childhood 🧒, I have possessed an unwavering determination to solve complex puzzles. Over the years, 
+  this innate drive has transformed into a fervent passion for translating statistical data 📊 and factual information into 
+  actionable insights that inform strategic business decisions, through a process which involves a thorough analysis of diverse 
+  data sets 💻, such as sales figures 💰, market research, logistics 🚢, and transportation data 🚚, in order to guide 
+  effective business strategies.<p>
 
 - 🌱 I’m currently learning **Statistics for Data Analysis and Data Science**
 
