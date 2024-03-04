@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to My Space :earth_africa:</h1>
-<h3 align="left">Hi, I am Minerva Ankrah</h3>
+<h3 align="left">Hi, I am Minerva</h3>
 
 <p align="justify">Since my early childhood, I have possessed an unwavering determination to solve complex puzzles. Over the years, 
   this innate drive has transformed into a fervent passion for translating statistical data and factual information into 
